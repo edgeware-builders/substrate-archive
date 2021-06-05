@@ -8,5 +8,6 @@ members = [
 
 exclude = [
   "bin/polkadot-archive",
-  "bin/node-template-archive"
+  "bin/node-template-archive",
+  "bin/edgeware-archive"
 ]
